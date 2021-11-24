@@ -11,7 +11,7 @@ REM git --git-dir=.git --work-tree=_site add --all
 REM git --git-dir=.git --work-tree=_site commit -m "autogen: update site"
 REM git --git-dir=.git --work-tree=_site push
 
-set REPO=git@github.com:SmartYouTubeTV/SmartYouTubeTV.github.io.git
+set REPO=git@github.com:yuliskov/smarttubenext.github.io.git
 
 pushd _site
 
